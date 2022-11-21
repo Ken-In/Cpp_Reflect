@@ -1,0 +1,6 @@
+﻿  ClassFactory.cpp
+C:\Users\yinfu\Desktop\VS_Test\CppReflect\CppReflect\ClassFactory.cpp(64,40): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yinfu\Desktop\VS_Test\CppReflect\CppReflect\ClassFactory.cpp(88,41): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  CppReflect.vcxproj -> C:\Users\yinfu\Desktop\VS_Test\CppReflect\x64\Debug\CppReflect.exe
